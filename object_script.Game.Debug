@@ -1,0 +1,16 @@
+debug/background.o
+debug/game.o
+debug/lose.o
+debug/main.o
+debug/player.o
+debug/skin_menu.o
+debug/start_movie.o
+debug/widget.o
+debug/win.o
+debug/qrc_img.o
+debug/moc_game.o
+debug/moc_lose.o
+debug/moc_skin_menu.o
+debug/moc_start_movie.o
+debug/moc_widget.o
+debug/moc_win.o

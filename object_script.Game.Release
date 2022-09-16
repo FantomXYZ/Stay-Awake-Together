@@ -1,0 +1,16 @@
+release/background.o
+release/game.o
+release/lose.o
+release/main.o
+release/player.o
+release/skin_menu.o
+release/start_movie.o
+release/widget.o
+release/win.o
+release/qrc_img.o
+release/moc_game.o
+release/moc_lose.o
+release/moc_skin_menu.o
+release/moc_start_movie.o
+release/moc_widget.o
+release/moc_win.o

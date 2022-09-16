@@ -1,0 +1,82 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>src/graphics/static pictures/backgrounds/candle_flower_burning.png</file>
+        <file>src/graphics/static pictures/backgrounds/candle_piano_burning.png</file>
+        <file>src/graphics/static pictures/backgrounds/candle_window_burning.png</file>
+        <file>src/graphics/static pictures/backgrounds/lightbulb_bed.png</file>
+        <file>src/graphics/static pictures/backgrounds/lightbulb_table.png</file>
+        <file>src/graphics/static pictures/backgrounds/stay_awake_bedroom.png</file>
+    </qresource>
+    <qresource prefix="/chars">
+        <file>src/graphics/static pictures/chars/pixil-frame-0 (4).png</file>
+        <file>src/graphics/static pictures/chars/pixil-frame-0 (5).png</file>
+        <file>src/graphics/static pictures/chars/pixil-frame-0 (6).png</file>
+        <file>src/graphics/static pictures/chars/pixil-frame-0 (7).png</file>
+    </qresource>
+    <qresource prefix="/chars_anim">
+        <file>src/graphics/animations/characters/white_cat_front_walk.gif</file>
+        <file>src/graphics/animations/characters/jordan_step_1.png</file>
+        <file>src/graphics/animations/characters/jordan_step_2_4.png</file>
+        <file>src/graphics/animations/characters/jordan_step_3.png</file>
+    </qresource>
+    <qresource prefix="/do">
+        <file>src/graphics/do/f.png</file>
+    </qresource>
+    <qresource prefix="/plot">
+        <file>C:/Users/Asus/Desktop/pixil-gif-drawing (6).gif (1).gif</file>
+    </qresource>
+    <qresource prefix="/monsters_anim">
+        <file>src/graphics/animations/monster/monster_hand_1.png</file>
+        <file>src/graphics/animations/monster/monster_hand_2.png</file>
+        <file>src/graphics/animations/monster/monster_hand_3.png</file>
+        <file>src/graphics/animations/monster/monster_hand_4.png</file>
+        <file>src/graphics/animations/monster/monster_hand_5.png</file>
+        <file>src/graphics/animations/monster/monster_hand_6.png</file>
+        <file>src/graphics/animations/monster/monster_hand_7.png</file>
+        <file>src/graphics/animations/monster/monster_hand_8.png</file>
+        <file>src/graphics/animations/monster/monster_hand_9.png</file>
+        <file>src/graphics/animations/monster/monster_hand_10.png</file>
+        <file>src/graphics/animations/monster/monster_hand_11.png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (37).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (38).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (39).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (40).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (41).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (42).png</file>
+        <file>src/graphics/animations/monster/pixil-frame-0 (43).png</file>
+        <file>src/graphics/animations/monster/eye_cl0.png</file>
+        <file>src/graphics/animations/monster/eye_cl1.png</file>
+        <file>src/graphics/animations/monster/eye_cl2.png</file>
+        <file>src/graphics/animations/monster/eye_cl3.png</file>
+        <file>src/graphics/animations/monster/eye_cl4.png</file>
+        <file>src/graphics/animations/monster/eye_cl5.png</file>
+        <file>src/graphics/animations/monster/eye_cl6.png</file>
+        <file>src/graphics/animations/monster/eye_cl7.png</file>
+        <file>src/graphics/animations/monster/eye_op0.png</file>
+        <file>src/graphics/animations/monster/eye_op1.png</file>
+        <file>src/graphics/animations/monster/eye_op2.png</file>
+        <file>src/graphics/animations/monster/eye_op3.png</file>
+        <file>src/graphics/animations/monster/eye_op4.png</file>
+        <file>src/graphics/animations/monster/eye_op5.png</file>
+        <file>src/graphics/animations/monster/eye_op6.png</file>
+        <file>src/graphics/animations/monster/eye_op7.png</file>
+        <file>src/graphics/animations/monster/eye_op8.png</file>
+        <file>src/graphics/animations/monster/eye_op9.png</file>
+        <file>src/graphics/animations/monster/eye_op10.png</file>
+    </qresource>
+    <qresource prefix="/movie">
+        <file>src/movie/pixil-frame-0 (21).png</file>
+        <file>src/movie/pixil-frame-0 (22).png</file>
+        <file>src/movie/pixil-frame-0 (23).png</file>
+        <file>src/movie/pixil-frame-0 (24).png</file>
+        <file>src/movie/pixil-frame-0 (25).png</file>
+        <file>src/movie/pixil-frame-0 (26).png</file>
+        <file>src/movie/pixil-frame-0 (27).png</file>
+        <file>src/movie/pixil-frame-0 (28).png</file>
+        <file>src/movie/pixil-frame-0 (19).png</file>
+    </qresource>
+    <qresource prefix="/WL">
+        <file>src/graphics/static pictures/win_lose/pixil-frame-0 (35).png</file>
+        <file>src/graphics/static pictures/win_lose/pixil-frame-0 (36).png</file>
+    </qresource>
+</RCC>
